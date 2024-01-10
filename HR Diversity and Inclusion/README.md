@@ -53,6 +53,8 @@ The table below shows field's names and their description:
 | Rand | A random number for each entry in the dataset |
 
 ## Analysis
+![Dashboard](https://github.com/trang1812/Power-BI/assets/126154468/c2e5b343-663f-4bc2-a0d1-59389374c615)
+
 ### Overview
 * There were 500 employees from 2019, 41% of which is female. Employees are mainly at young age groups (20-39)
 * The average tenure of employees is 3.86 years. HR and Strategy departments have longer tenures. The observed gender disparity in tenure (4.2 years for male employees vs. 3.38 years for female employees) is a critical point of consideration. Potential factors contributing to this disparity might include gender biases, differences in career development opportunities, work-life balance challenges, or other gender-specific issues.
