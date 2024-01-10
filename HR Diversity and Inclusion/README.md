@@ -1,1 +1,2 @@
- 
+**# HR DIVERSITY AND INCLUSION**
+
