@@ -63,6 +63,7 @@ Description of Churn data
 ### Customer Demographic Information 
 * Gender is not the major factor of churning as churn rate of male and female is almost same.
 * Among those who terminated the company services, 74.53% belonged to the younger age group, while 25.47% were classified as senior citizens. The majority of customers who discontinued services did not have dependents. This indicates a higher rate of churn among younger customers without dependents and the need to address their unique needs and preferences for enhancing customer retention.
+  
 ![Senior customers?](https://github.com/trang1812/Power-BI/assets/126154468/f00141cc-3cfa-4fad-b0d8-0b74e23fc615)
 ![Customer has dependents?](https://github.com/trang1812/Power-BI/assets/126154468/c637861c-6675-4a6f-a917-ed91349cbaa1)
 
