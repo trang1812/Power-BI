@@ -53,7 +53,8 @@ Description of Churn data
   * Demographic info about customers – gender, age range, and if they have partners and dependents.
 
 ## Analysis
-![Dashboard](https://github.com/trang1812/Power-BI/assets/126154468/99b4b0ae-bc60-4716-aeb6-a88b7057298b)
+![Dashboard](https://github.com/trang1812/Power-BI/assets/126154468/e6265f87-25ed-4bc3-aa67-dfd06788bce6)
+
 
 ### Customer Churn Overview
 * The total number of customers is 7043, 1869 of which churned (26,5%). Revenue lost due to churn is $2.86M. The churn rate highlights the need for proactive measures to address customer concerns and improve retention strategies to mitigate further churn in the future.
